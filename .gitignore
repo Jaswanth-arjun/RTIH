@@ -1,0 +1,12 @@
+.env
+.dev/
+storage/logs/*.log
+!storage/logs/.gitkeep
+storage/mysql_data/
+vendor/
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
